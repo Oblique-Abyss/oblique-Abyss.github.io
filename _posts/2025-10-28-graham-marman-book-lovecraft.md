@@ -21,9 +21,9 @@ draft: true
 
 ## فایل‌های مرتبط
 
-- [Weird Realism - نسخه موبایل - فارسی PDF](assets/pdf/2025-10-28-graham-marman-book-lovecraft/mobile-version.pdf)
-- [Weird Realism - نسخه اصلی PDF](assets/pdf/2025-10-28-graham-marman-book-lovecraft/Weird-Realism-Lovecraft-and-Philosophy.pdf)
-- [Weird Realism - نسخه فارسی PDF](assets/pdf/2025-10-28-graham-marman-book-lovecraft/Weird-Realism-Lovecraft-and-Philosophy-persion.pdf)
+- [Weird Realism - نسخه موبایل - فارسی PDF](/assets/pdf/2025-10-28-graham-marman-book-lovecraft/mobile-version.pdf)
+- [Weird Realism - نسخه اصلی PDF](/assets/pdf/2025-10-28-graham-marman-book-lovecraft/Weird-Realism-Lovecraft-and-Philosophy.pdf)
+- [Weird Realism - نسخه فارسی PDF](/assets/pdf/2025-10-28-graham-marman-book-lovecraft/Weird-Realism-Lovecraft-and-Philosophy-persion.pdf)
 
 
 ###  «دربارۀ تباهی»:
