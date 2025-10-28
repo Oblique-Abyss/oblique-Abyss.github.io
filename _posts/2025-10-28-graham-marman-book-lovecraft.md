@@ -18,11 +18,11 @@ description: قسمت هشتم از بخش اول کتاب لاوکرفت و ف�
 draft: true
 ---
 
- برای دانلود فایل اصلی  کتاب، [نسخه اصلی](/download/2025-10-28-graham-marman-book-lovcraft/Weird Realism_ Lovecraft and Philosophy.pdf){:target="_blank"}.
+ برای دانلود فایل اصلی  کتاب، [نسخه اصلی](/download/2025-10-28-graham-marman-book-lovcraft/Weird Realism_ Lovecraft and Philosophy.pdf/..){:target="_blank"}.
 
- برای دانلود فایل ترجمه فارسی، [ترجمه فارسی](/download/2025-10-28-graham-marman-book-lovcraft/Weird Realism  Lovecraft and Philosophy_persion.pdf){:target="_blank"}.
+ برای دانلود فایل ترجمه فارسی، [ترجمه فارسی](/download/2025-10-28-graham-marman-book-lovcraft/Weird Realism  Lovecraft and Philosophy_persion.pdf/..){:target="_blank"}.
 
- برای دانلود نسخه مناسب موبایلِ ترجمه فارسی، [ترجمه فارسی-موبایل](/download/2025-10-28-graham-marman-book-lovcraft/mobile-version.pdf){:target="_blank"}.
+ برای دانلود نسخه مناسب موبایلِ ترجمه فارسی، [ترجمه فارسی-موبایل](/download/2025-10-28-graham-marman-book-lovcraft/mobile-version.pdf/..){:target="_blank"}.
 
 ###  «دربارۀ تباهی»:
 
