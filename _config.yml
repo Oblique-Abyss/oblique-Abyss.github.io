@@ -46,9 +46,9 @@ description: >- # used by seo meta and the atom feed
 url: 'https://Oblique-Abyss.github.io'
 
 github:
-  username: https://github.com/Oblique-Abyss # change to your GitHub username
+  username: Oblique-Abyss # change to your GitHub username
 telegram:
-  username: https://t.me/TheNaqb # change to your telegram username
+  username: TheNaqb # change to your telegram username
 
 social:
   # Change to your full name.
