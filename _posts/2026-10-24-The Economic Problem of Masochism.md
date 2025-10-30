@@ -3,7 +3,7 @@ layout: post
 title: The Economic Problem of Masochism
 date: 2025-10-23 15:42:00 +0200
 lang: fa
-author: oblique - زیگموند فروید
+author: oblique
 categories:
   - مقاله
 tags:
