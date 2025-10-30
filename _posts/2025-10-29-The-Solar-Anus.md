@@ -1,7 +1,7 @@
 ---
 layout: post
 title: مقعدِ خورشیدی
-date: 2025-10-30 22:42:00 +0200
+date: 2025-10-29 22:42:00 +0200
 lang: fa
 author: مورب
 categories:
