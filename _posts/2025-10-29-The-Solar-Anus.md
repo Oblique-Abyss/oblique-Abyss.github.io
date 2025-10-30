@@ -3,7 +3,7 @@ layout: post
 title: مقعدِ خورشیدی
 date: 2025-10-29 15:42:00 +0200
 lang: fa
-author: مورب
+author: oblique
 categories:
   - مقاله
   - فلسفه-قاره‌ای
