@@ -1,7 +1,7 @@
 ---
 layout: post
 title: مینروای کور
-date: 2025-11-0115:04:00 +0200
+date: 2025-11-01 15:04:00 +0200
 lang: fa
 author: oblique
 categories: یادداشت شخصی
