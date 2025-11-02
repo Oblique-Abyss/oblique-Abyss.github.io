@@ -5,14 +5,17 @@ date: 2025-11-01 07:04:00 +0200
 lang: fa
 author: oblique
 categories:
--اغراق
--یادداشت
+  - اغراق
+  - جُستار
 tags:
+  - نقل-قول
+  - ژرژ-باتای
 render_with_liquid: false
 media_subpath: /assets/img/posts/2025-11-01-blindminerva
 image: 1.jpg
 description: بوف کور، صادق هدایت
 ---
+
 
 ## مینروای کور
  مورب
