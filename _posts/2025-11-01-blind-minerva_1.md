@@ -4,14 +4,17 @@ title: مینروای کور
 date: 2025-11-01 15:04:00 +0200
 lang: fa
 author: oblique
-categories: یادداشت شخصی
+categories:
+  - یادداشت شخصی
 tags:
   - صادق-هدایت
   - اغراق
 render_with_liquid: false
 media_subpath: assets/img/posts/2025-11-01-blind-minerva_1
 image: 2025-11-01-blind-minerva_1.jpg
+mermaid: true
 description: بخش نخست
+draft: true
 ---
 
 ## مینروای کور
