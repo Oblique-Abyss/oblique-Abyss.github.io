@@ -9,7 +9,7 @@ tags:
   - صادق-هدایت
   - اغراق
 render_with_liquid: false
-media_subpath: assets/img/posts/2026-10-26-blind-minerva
+media_subpath: assets/img/posts/2025-11-01-blind-minerva_1
 image: 2025-11-01-blind-minerva_1.jpg
 description: بخش نخست
 ---
